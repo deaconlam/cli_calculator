@@ -48,9 +48,6 @@ Supported Operations:
 2. Exponentiation
 - 1^1 oor 1**1
         
-3. Square Root:
-- sqrt(1)
-        
 Note: Percentages are not directly supported 
       using the "%" symbol. Calculate
       percentages by dividing by 100.
@@ -144,9 +141,6 @@ Supported Operations:
         
 2. Exponentiation
 - 1^1 oor 1**1
-        
-3. Square Root:
-- sqrt(1)
         
 Note: Percentages are not directly supported 
       using the "%" symbol. Calculate
