@@ -11,5 +11,5 @@ Deacon Lam (Creator)
 3. Deacon_Project_CLICalculator_Windows.exe  
   This version is an executable for Windows operating systems.
 
-4. Deacon_Project_CLICalculator_Linux.  
+4. Deacon_Project_CLICalculator_Linux  
   This version is an executable for Linux operating systems (including macOS).
