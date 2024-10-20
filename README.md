@@ -13,7 +13,7 @@ Deacon Lam (Creator)
 
 4. Deacon_Project_CLICalculator_Linux  
   This version is an executable for Linux operating systems (including macOS).
-    If the file cannot be opened or appears as garbled text, try:
+   If the file cannot be opened or appears as garbled text, try:
     1. Open a terminal where the file is located
     2. Execute "sudo chmod +x 'Deacon_Project_CLICalculator_Linux'"
     3. Execute "./'Deacon_Project_CLICalculator_Linux'"
